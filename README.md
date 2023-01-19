@@ -1,4 +1,4 @@
-- watsup, i like rust and don't like python
+- hi i exist
 
 <!---
 nulla-git/nulla-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
